@@ -9,6 +9,9 @@
     <h8>888888888888888</h8>
     <hello-world></hello-world>
     <HelloWorld></HelloWorld>
+    <dialog>
+      master
+    </dialog>
     <div>
       lskdjflkajsdlfkjadskl;fj
     </div>
